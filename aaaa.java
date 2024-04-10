@@ -10,7 +10,10 @@ int i=100;
 
   int c=a+b;
 
-  
+  for(int i=1;i<=10;i++)
+    {
+    System.out.println(i);
+    }
   
 System.out.println(c);
 
