@@ -3,7 +3,7 @@ class aaaa
 
 public static void main(String args[])
 {
-
+// ASK;
 System.out.println("HELLO AAAA");
 
   int b=1000;
