@@ -8,6 +8,9 @@ System.out.println("HELLO AAAA");
 int i=100;
   int b=1000;
   
+System.out.println(c);
+
+
 }
 
 
